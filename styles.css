@@ -1,0 +1,19 @@
+header{
+    color:beige;
+    background-color:rgb(21, 184, 184);
+    margin-left:auto;
+    margin-right:auto;
+    padding:20px;
+    text-align:center;
+    font-size:30px;
+    width:400px;
+
+}
+main{
+    color:rgb(13, 134, 134);
+    margin:20px auto;
+    font-size:20px;
+    width:400px;
+    padding:20px;
+    background-color: beige;
+}
